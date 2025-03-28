@@ -1,0 +1,49 @@
+body {
+    background-image: url("link_to_my_picture");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    border-style: solid;
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    background-color: transparent;
+    height: 80%;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+}
+
+.footer {
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+}
+.stars {
+    width: 100%;
+    height: 95vh;
+    position: absolute;
+    background: url('https://www.transparenttextures.com/patterns/stardust.png');
+    animation: twinkle 3s infinite alternate;
+}
+@keyframes twinkle {
+    0% { opacity: 0.8; }
+    100% { opacity: 1; }
+}
+p {
+    margin: 8px;
+}
