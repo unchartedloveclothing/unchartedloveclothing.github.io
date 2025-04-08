@@ -1,0 +1,18 @@
+Break down clothing categories:
+    Hats
+    Pants
+    Shirts
+        Long-sleve
+        Short-sleeve
+        etc.
+    Socks
+    Kicks
+
+Flesh out the details for individual items:
+    Sizes available
+    Colors
+    Price
+
+Include highlighted items on the home page with links to those items (sale, etc.)
+make the footer cooler
+
