@@ -39,6 +39,7 @@ body {
     position: absolute;
     background: url('https://www.transparenttextures.com/patterns/stardust.png');
     animation: twinkle 3s infinite alternate;
+    overflow: scroll;
 }
 @keyframes twinkle {
     0% { opacity: 0.8; }
