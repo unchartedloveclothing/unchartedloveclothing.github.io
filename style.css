@@ -34,12 +34,6 @@ body {
     background: rgb(255, 255, 255)
 }
 .stars {
-    .stars {
-        background-color: white;
-        color: black; /* Optional: ensure text contrast */
-        padding: 20px; /* Optional: spacing inside the white box */
-    }
-    
     width: 100%;
     height: 95vh;
     position: absolute;
@@ -53,4 +47,9 @@ body {
 }
 p {
     margin: 8px;
+}
+
+ul a {
+    color: #e7d231;
+    font-size: 25px;
 }
